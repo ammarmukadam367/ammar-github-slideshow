@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.instagram.com/p/CRZ9cvNMvdc/?utm_medium=copy_link) and ![Image](Instagram)
+[Link](Instagram) and ![Image](https://www.instagram.com/p/CRZ9cvNMvdc/?utm_medium=copy_link)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
